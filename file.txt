@@ -1,2 +1,2 @@
 enjoy pandagoy
-validations are applied
+validations are not supported
